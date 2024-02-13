@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MOISTIUER", "MOISTIUER\MOISTIUER.cproj", "{4FC95F1E-3626-407D-9624-A42092B6377B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC95F1E-3626-407D-9624-A42092B6377B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4FC95F1E-3626-407D-9624-A42092B6377B}.Debug|AVR.Build.0 = Debug|AVR
+		{4FC95F1E-3626-407D-9624-A42092B6377B}.Release|AVR.ActiveCfg = Release|AVR
+		{4FC95F1E-3626-407D-9624-A42092B6377B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
